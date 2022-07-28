@@ -1,4 +1,4 @@
 master/
 
-библиотеки Selenium + BeatifulSoup
+библиотеки Selenium + BeatifulSoup на базе Django REST
 парсит открытый канал телеграм с добавлением пабликов, которые не повторяются, в ДБ
